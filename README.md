@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Laurent "Sandalman"</h1>
 <h2 align="center">Junior Web Developper, Senior Mobile Game Designer, Master Sandals Wearer</h2>
 
-- 🔭 I’m currently working on **MemoFlip**, a flash card project carried out as part of my training (private repo, sorry
+- 🔭 I’m currently working on **MemoFlip**, a flash card project carried out as part of my training (private repo, sorry)
 
 - 🌱 I am currently in a training course called **Web Application Designer & Developer**
 
