@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Laurent "Sandalman"</h1>
 <h2 align="center">Junior Web Developper, Senior Mobile Game Designer, Master Sandals Wearer</h2>
 
-- 🔭 I’m currently working on refactoring [this website](https://www.jeannedarc33.fr/) in NextJS. My previous project is **MemoFlip**, a flash card project carried out as part of my training (private repo, sorry)
+- 🔭 I’m currently working on refactoring [this website](https://www.jeannedarc33.fr/) from WordPress to NextJS : [Repo](https://github.com/LaurentKatsesSandalman/jeanne_darc). 
 
-- 🌱 I am currently in a training course called **Web Application Designer & Developer**
-
-- 🤝 I’m looking for help to deploy [MdB, a retro-rpg very small game](https://github.com/LaurentKatsesSandalman/soloRush2_MdB)
+- 🌱 In dec. 2025, I finished a training course called **Web Application Designer & Developer** (internship: dec. 25 to march 26)
 
 - 🧮 My favorite area of ​​math is **probability**
 
