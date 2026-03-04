@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Laurent "Sandalman"</h1>
 <h2 align="center">Junior Web Developper, Senior Mobile Game Designer, Master Sandals Wearer</h2>
 
-- 🔭 I’m currently working on refactoring [this website](https://www.jeannedarc33.fr/) from WordPress to NextJS : [Repo](https://github.com/LaurentKatsesSandalman/jeanne_darc). 
+- 🔭 I’ve just finished working on refactoring [this website](https://www.jeannedarc33.fr/) from WordPress to NextJS : [Repo](https://github.com/LaurentKatsesSandalman/jeanne_darc). 
 
 - 🌱 In dec. 2025, I finished a training course called **Web Application Designer & Developer** (internship: dec. 25 to march 26)
 
