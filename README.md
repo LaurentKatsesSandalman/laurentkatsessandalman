@@ -3,7 +3,11 @@
 
 - 🔭 I've just finished working on refactoring [this website](https://www.jeannedarc33.fr/) from WordPress to NextJS : [Repo](https://github.com/LaurentKatsesSandalman/jeanne_darc). 
 
+- 📖 I'm currently learning **Unity**
+
 - 🌱 In dec. 2025, I finished a training course called **Web Application Designer & Developer** (internship: dec. 25 to march 26)
+
+- 🤖 I'm working with **Claude Code** and my current goal is **prototyping within a day web and Unity games** with AI support
 
 - 🧮 My favorite area of ​​math is **probability**
 
